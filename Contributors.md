@@ -1,7 +1,6 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
-- [bharathtvns](https://github.com/bharathtvns)
 - [Enzo Moreno Baraldi](https://github.com/Enzo1603)
 - [Chirag sharma] (https://github.com/chiragksharma)]
 - [Divya Arora](https://github.com/divyaarora1808)
@@ -24,6 +23,7 @@
 - [Vinaya Datta](https://github.com/vinaya-datta/)
 - [Alisa Owens](https://github.com/alisaowens)
 - [Raul Flores](https://github.com/Raul-A-Flores)
+- [bharathtvns](https://github.com/bharathtvns)
 - [Teo Vilenskiy](https://github.com/xxvnt4)
 - [Shivam Patel](https://github.com/Shivam1111111)
 - [Surya](https://github.com/suryanva)
