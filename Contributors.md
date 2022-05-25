@@ -1,6 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [bharathtvns](https://github.com/bharathtvns)
 - [Enzo Moreno Baraldi](https://github.com/Enzo1603)
 - [Chirag sharma] (https://github.com/chiragksharma)]
 - [Divya Arora](https://github.com/divyaarora1808)
